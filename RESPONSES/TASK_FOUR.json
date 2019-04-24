@@ -1,0 +1,10 @@
+METHOD TYPE: JSON
+URL USED: http://localhost:8080/auction/bids/add
+REQUEST BODY:
+{
+  "item_id": "1",
+  "user_id": "2",
+  "amount": "8000"
+}
+
+RESPONSE NONE: 200 STATUS OK new entry added in DATABASE

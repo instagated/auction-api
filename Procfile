@@ -1,0 +1,1 @@
+web: java -jar target/auction-demo-api-1.0.jar

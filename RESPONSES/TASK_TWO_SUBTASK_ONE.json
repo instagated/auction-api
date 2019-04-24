@@ -1,0 +1,8 @@
+URL USED: http://localhost:8080/auction/items/4
+
+{
+    "user_id": 2,
+    "name": "Akash Verma",
+    "email": "ddaksh.93@gmail.com",
+    "password": "abcd1234"
+}

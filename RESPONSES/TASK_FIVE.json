@@ -1,0 +1,24 @@
+URL USED: http://localhost:8080/auction/bids/2
+
+[
+    [
+        "ITEM B",
+        3000
+    ],
+    [
+        "ITEM C",
+        6500
+    ],
+    [
+        "ITEM D",
+        3500
+    ],
+    [
+        "ITEM E",
+        4000
+    ],
+    [
+        "ITEM F",
+        7000
+    ]
+]
