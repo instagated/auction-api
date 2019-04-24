@@ -20,7 +20,7 @@ TASK THREE->Will be running the cron job at the starting of every minute to chec
 				lookup for user with maximum bid in BIDS table, get the proper user instance from users table and update it in auction_items table
 				->SECOND PART OF SCHEDULED TASK --- SENDING MAIL IS IN PROGRESS
 TASK FOUR->Submitting new bids
-			->URI for that will be http://localhost:8080/auction/bids/add
+			->URI for that will be http://localhost:8080/auction/bids/add, one issue is there currently if we add add 2 entries in table one by one, but delete first, id generated is not consecutive one.
 			->ADDING AUTHENTICATION TO THIS URI WAS IN PROGRESS AS WELL
 				
 TASK FIVE->View all bids submitted by an authenticated user
